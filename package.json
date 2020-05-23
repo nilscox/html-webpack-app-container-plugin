@@ -1,0 +1,6 @@
+{
+  "name": "html-webpack-app-container-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Beerware"
+}
